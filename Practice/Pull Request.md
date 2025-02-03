@@ -7,6 +7,9 @@
 ### There is no conflict and no branching rule set so we can direct merge this pull request
 ![](https://i.imgur.com/KNEIsTr.png)
 
+### Setting branching rule
+![](https://i.imgur.com/D6KAH9B.png)
+
 ### Opening new pull request after setting branching  rule so we can not able to merge directly. We needed one review for merge this PR
 ![](https://i.imgur.com/3TK3NiB.png)
 
